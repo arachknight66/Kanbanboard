@@ -1,4 +1,4 @@
-import { Droppable, Draggable } from 'react-beautiful-dnd';
+import { Droppable, Draggable } from '@hello-pangea/dnd';
 import { Column as ColumnType, Task } from '../types';
 import { TaskCard } from './TaskCard';
 import { Button } from './ui/button';

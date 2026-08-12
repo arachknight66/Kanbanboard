@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { DropResult } from 'react-beautiful-dnd';
+import { DropResult } from '@hello-pangea/dnd';
 import { Board } from './components/Board';
 import { AddTaskDialog } from './components/AddTaskDialog';
 import { ThemeSwitcher } from './components/ThemeSwitcher';

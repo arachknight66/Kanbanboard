@@ -1,4 +1,4 @@
-import { DragDropContext, Droppable, DropResult } from 'react-beautiful-dnd';
+import { DragDropContext, Droppable, DropResult } from '@hello-pangea/dnd';
 import { BoardData, Task } from '../types';
 import { Column } from './Column';
 
